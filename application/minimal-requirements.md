@@ -9,6 +9,9 @@ For any application, a minimal requirements should be follow as technical struct
 
 ## Features
 - Each features as possible as it can, have to be independant and be removable without breaking another one (of the same application)
+- The UI have to be fully responsive
+- Multilangue option has to be enabled with english as default (only for front application)
+- The application has to contain Easter eggs, no further explanation...
 
 ## Documentation
 ☑️ Those points are not applicable for prototype

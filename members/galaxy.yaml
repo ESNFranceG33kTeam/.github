@@ -1,5 +1,13 @@
 ---
-# Galaxy username
+# Galaxy conf
+## This is the galaxy for the french G33kTeam apps access.
+cas_server: "https://accounts.esn.org/cas"
+country: "FR"
+## Roles for access
+roles:
+  - "IT.it_support"
+  - "International.ITSupport"
+  - "National.webmaster:FR"
 ## Write an issue and tag @@ESNFranceG33kTeam/admin to be add if your are part of the G33kTeam
 galaxy_username:
   - "Mickahell"

@@ -9,6 +9,11 @@ global_roles:
   - "International.ITSupport"
   - "National.webmaster:FR"
 ## Write an issue and tag @@ESNFranceG33kTeam/admin to be add if your are part of the G33kTeam
-galaxy_username:
+geek_username:
   - "Mickahell"
-  - "devertry"
+## Default local conf
+local_roles:
+  - "Local.regularBoardMember"
+  - "Local.webmaster"
+  - "Local.activity"
+  - "Local.boardSupport"

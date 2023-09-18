@@ -17,4 +17,3 @@ local_roles:
   - "Local.webmaster"
   - "Local.activity"
   - "Local.boardSupport"
-  - "Local.activeMember"

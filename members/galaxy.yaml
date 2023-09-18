@@ -4,7 +4,7 @@
 cas_server: "https://accounts.esn.org/cas"
 country: "FR"
 ## Roles for access
-roles:
+global_roles:
   - "IT.it_support"
   - "International.ITSupport"
   - "National.webmaster:FR"
